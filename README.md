@@ -16,8 +16,8 @@ We also provide the [pretrained models].
 
 <table style="width:100%">
   <tr>
-    <th>VITS at training</th>
-    <th>VITS at inference</th>
+    <th>CDSD overview</th>
+    <th>overall information of the speakers</th>
   </tr>
   <tr>
     <td><img src="resources/fig_1a.png" alt="VITS at training" height="400"></td>
